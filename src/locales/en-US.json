@@ -1,5 +1,5 @@
 {
-	"title": "Genshin Impact Wish Simulator",
+	"title": "GI X RE Wish Simulator",
 	"character": "Character",
 	"weapon": "Weapon",
 	"vision": "Vision",
@@ -10,18 +10,18 @@
 	"hydro": "Hydro",
 	"geo": "Geo",
 	"pyro": "Pyro",
-	"bow": "Bow",
-	"catalyst": "Catalyst",
-	"claymore": "Claymore",
-	"sword": "Sword",
-	"polearm": "Polearm",
+	"bow": "Rifle & Bow",
+	"catalyst": "Projectile & Melee",
+	"claymore": "Shotgun",
+	"sword": "Handgun & Machinegun",
+	"polearm": "Magnum",
 	"extra": "Extra",
 	"obtained": "Obtained",
 	"waiting": "Waiting",
 	"connectionFailed": "Connection Failed!",
 	"confirmButton": "Confirm",
 	"cancelButton": "Cancel",
-	"disclaimer": "All assets used in this site are owned by miHoYo.",
+	"disclaimer": "All assets used in this site are owned by miHoYo and Capcom.",
 	"fanmade": "This is purely a fan made Application, enjoy it !",
 	"pressToContinue": "Press anywhere in the blank area to continue",
 	"installInstruction": "Instructions to Install to Home Screen/Desktop",
@@ -32,7 +32,7 @@
 	"version": "Version",
 	"donate": "Donate",
 	"banner": {
-		"beginner": "Beginners' Wish",
+		"beginner": "Starter Recruitment",
 		"wanderlust": "Wanderlust Invocation",
 		"epitome-invocation": "Epitome Invocation",
 		"adrift-in-the-harbor": "Adrift in The Harbor",
@@ -86,8 +86,8 @@
 		"always": "Always"
 	},
 	"wish": {
-		"wishTitle": "Wish",
-		"rollButton": "Wish {count}",
+		"wishTitle": "Recruitment",
+		"rollButton": "Recruitment {count}",
 		"stellaFortuna": "Stella Fortuna",
 		"loadFailed": "Failed to load Banner! <br /> Please switch to other banner or reconnect to the internet to avoid errors!",
 		"loadMeteor": "Load Meteor",
@@ -101,7 +101,7 @@
 			"previous": "Previous Banner",
 			"findBanner": "Find a Banner",
 			"group": "Group",
-			"beginner": "Beginners' Wish",
+			"beginner": "Starter Recruitment",
 			"character-event": "Character Event Wish",
 			"weapon-event": "Weapons Wish",
 			"standard": "Standard Wish",
@@ -207,6 +207,12 @@
 			"sailwind-shadow": {
 				"name": "Sailwind Shadow",
 				"description": "Kaeya's outfit from his role as the \"Dagger Bandit\" in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted."
+			},
+
+			
+			"master-of-unlocking": {
+				"name": "Master of Unlocking",
+				"description": "Jill's outfit from her uniform of the S.T.A.R.S."
 			}
 		}
 	},

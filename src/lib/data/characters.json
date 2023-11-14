@@ -2,6 +2,64 @@
 	"onlyStandard": ["amber", "kaeya", "lisa"],
 	"data": [
 		{
+			"name": "hunk",
+			"vision": "pyro",
+			"rarity": 4,
+			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 }
+		},
+		{
+			"name": "barry",
+			"vision": "pyro",
+			"rarity": 4,
+			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 }
+		},
+		{
+			"name": "rebecca",
+			"vision": "dendro",
+			"rarity": 4,
+			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 }
+		},
+		{
+			"name": "ada",
+			"vision": "pyro",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "leon",
+			"vision": "hydro",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "claire",
+			"vision": "pyro",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "chris",
+			"vision": "dendro",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "jill",
+			"vision": "cryo",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+
+
+
+
+
+		{
 			"name": "furina",
 			"vision": "hydro",
 			"rarity": 5,

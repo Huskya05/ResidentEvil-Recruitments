@@ -378,5 +378,44 @@
 	"zhongli": {
 		"name": "Zhongli",
 		"title": "Vago Mundo"
+	},
+
+
+
+
+
+
+	"samurai-edge": "Samurai Edge",
+	"jill": {
+		"name": "Jill",
+		"title": "Master of Unlocking"
+	},
+	"chris": {
+		"name": "Chris",
+		"title": "Leader of Elite Soldiers"
+	},
+	"claire": {
+		"name": "Claire",
+		"title": "Spunky College Student"
+	},
+	"leon": {
+		"name": "Leon",
+		"title": "Rookie police officer"
+	},
+	"ada": {
+		"name": "Ada",
+		"title": "Butterfly Spy"
+	},
+	"hunk": {
+		"name": "Hunk",
+		"title": "Mr Death"
+	},
+	"rebecca": {
+		"name": "Rebecca",
+		"title": "Former S.T.A.R.S. nurse"
+	},
+	"barry": {
+		"name": "Barry",
+		"title": "Firearm specialist"
 	}
 }
